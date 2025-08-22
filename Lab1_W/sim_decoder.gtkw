@@ -1,0 +1,38 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Wed Aug 20 17:03:35 2025
+[*]
+[dumpfile] "C:\Users\DAVI\Desktop\ArqComp\sim_decoder.ghw"
+[dumpfile_mtime] "Wed Aug 20 17:01:15 2025"
+[dumpfile_size] 810
+[savefile] "C:\Users\DAVI\Desktop\ArqComp\decoder_cf.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -149 355
+*-24.502890 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+top.decoder_tb.uut.c
+top.decoder_tb.uut.b
+top.decoder_tb.uut.a
+[color] 1
+top.decoder_tb.uut.d0
+[color] 2
+top.decoder_tb.uut.d1
+[color] 3
+top.decoder_tb.uut.d2
+[color] 4
+top.decoder_tb.uut.d3
+[color] 5
+top.decoder_tb.uut.d4
+[color] 6
+top.decoder_tb.uut.d5
+[color] 7
+top.decoder_tb.uut.d6
+[color] 1
+top.decoder_tb.uut.d7
+[pattern_trace] 1
+[pattern_trace] 0
