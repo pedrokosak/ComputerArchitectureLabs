@@ -1,3 +1,6 @@
+-- Pedro Henrique Kosak Ferreira 2090856
+-- Davi Riiti Goto Do Valle 1908030
+-- Raphael Leite Diniz 2358549
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;
