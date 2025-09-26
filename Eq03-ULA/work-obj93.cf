@@ -1,7 +1,7 @@
 v 4
-file . "Eq03_ULA.vhd" "31ce1cd6043d6f5d49f6ff98633f7c89e079641c" "20250828204312.708":
-  entity ula at 1( 0) + 0 on 21;
-  architecture a_ula of ula at 14( 257) + 0 on 22;
-file . "Eq03_ULA_tb.vhd" "95d79ade7feaafc60b5fcb8cba53af59a92e2ac9" "20250828205649.737":
-  entity ula_tb at 1( 0) + 0 on 27;
-  architecture a_ula_tb of ula_tb at 8( 93) + 0 on 28;
+file . "Eq03_ULA.vhd" "ac70deeb4b846055687b9257021971427a8007a7" "20250901213854.431":
+  entity ula at 4( 108) + 0 on 29;
+  architecture a_ula of ula at 17( 365) + 0 on 30;
+file . "Eq03_ULA_tb.vhd" "6c8fe2a74a1c07bb5229602b17a3a449e56b3940" "20250901213858.225":
+  entity ula_tb at 4( 108) + 0 on 31;
+  architecture a_ula_tb of ula_tb at 11( 201) + 0 on 32;

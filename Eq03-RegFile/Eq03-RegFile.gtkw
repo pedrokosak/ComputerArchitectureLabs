@@ -1,0 +1,35 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Thu Sep 25 22:21:52 2025
+[*]
+[dumpfile] "/home/pedro-kosak/UTFPR/Arch/ComputerArchitectureLabs/Eq03-RegFile/sim_regFile.ghw"
+[dumpfile_mtime] "Wed Sep 24 22:36:53 2025"
+[dumpfile_size] 13055731
+[savefile] "/home/pedro-kosak/UTFPR/Arch/ComputerArchitectureLabs/Eq03-RegFile/Eq03-RegFile.gtkw"
+[timestart] 0
+[size] 1920 1001
+[pos] -1 -1
+*-24.103937 63460000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.regfile_tb.
+[treeopen] top.regfile_tb.uut.
+[treeopen] top.regfile_tb.uut.gen_registers[7].
+[sst_width] 278
+[signals_width] 174
+[sst_expanded] 1
+[sst_vpaned_height] 297
+@28
+top.regfile_tb.uut.gen_registers[7].reg_instance.clk
+@22
+#{top.regfile_tb.s_rd2[15:0]} top.regfile_tb.s_rd2[15] top.regfile_tb.s_rd2[14] top.regfile_tb.s_rd2[13] top.regfile_tb.s_rd2[12] top.regfile_tb.s_rd2[11] top.regfile_tb.s_rd2[10] top.regfile_tb.s_rd2[9] top.regfile_tb.s_rd2[8] top.regfile_tb.s_rd2[7] top.regfile_tb.s_rd2[6] top.regfile_tb.s_rd2[5] top.regfile_tb.s_rd2[4] top.regfile_tb.s_rd2[3] top.regfile_tb.s_rd2[2] top.regfile_tb.s_rd2[1] top.regfile_tb.s_rd2[0]
+#{top.regfile_tb.s_rd1[15:0]} top.regfile_tb.s_rd1[15] top.regfile_tb.s_rd1[14] top.regfile_tb.s_rd1[13] top.regfile_tb.s_rd1[12] top.regfile_tb.s_rd1[11] top.regfile_tb.s_rd1[10] top.regfile_tb.s_rd1[9] top.regfile_tb.s_rd1[8] top.regfile_tb.s_rd1[7] top.regfile_tb.s_rd1[6] top.regfile_tb.s_rd1[5] top.regfile_tb.s_rd1[4] top.regfile_tb.s_rd1[3] top.regfile_tb.s_rd1[2] top.regfile_tb.s_rd1[1] top.regfile_tb.s_rd1[0]
+#{top.regfile_tb.s_wd3[15:0]} top.regfile_tb.s_wd3[15] top.regfile_tb.s_wd3[14] top.regfile_tb.s_wd3[13] top.regfile_tb.s_wd3[12] top.regfile_tb.s_wd3[11] top.regfile_tb.s_wd3[10] top.regfile_tb.s_wd3[9] top.regfile_tb.s_wd3[8] top.regfile_tb.s_wd3[7] top.regfile_tb.s_wd3[6] top.regfile_tb.s_wd3[5] top.regfile_tb.s_wd3[4] top.regfile_tb.s_wd3[3] top.regfile_tb.s_wd3[2] top.regfile_tb.s_wd3[1] top.regfile_tb.s_wd3[0]
+@25
+#{top.regfile_tb.s_a3[2:0]} top.regfile_tb.s_a3[2] top.regfile_tb.s_a3[1] top.regfile_tb.s_a3[0]
+@24
+#{top.regfile_tb.s_a2[2:0]} top.regfile_tb.s_a2[2] top.regfile_tb.s_a2[1] top.regfile_tb.s_a2[0]
+#{top.regfile_tb.s_a1[2:0]} top.regfile_tb.s_a1[2] top.regfile_tb.s_a1[1] top.regfile_tb.s_a1[0]
+@28
+top.regfile_tb.uut.gen_registers[7].reg_instance.rst
+[pattern_trace] 1
+[pattern_trace] 0
